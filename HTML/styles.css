@@ -1,10 +1,15 @@
 body{background-color:White;}
 
-p{color:black;font-family: Arial;}
+p{color:black;font-family: "Arial";}
 
-h1{color:blue;font family: Arial;} 
 
-h3{color:skyblue;font family: New Roman Times;}
+h1{color:blue;font-family: "Arial";} 
+
+
+h3{color:skyblue;font-family: "New Roman Times";}
+
 
 UL{ list-style-type: lower-roman; color:black; font-family:"iskoolaPota";}
 
+
+table{ background-color:silver; color:yellow; font-family: "arial";}
